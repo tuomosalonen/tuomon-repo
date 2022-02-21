@@ -16,3 +16,5 @@ The repository is accessible with a browser at https://github.com/tuomosalonen/t
 The repository can be cloned with
 
 git clone https://github.com/tuomosalonen/tuomon-repo.git
+
+EXTRA-RIVI
